@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/genZrizzCode/curl-CLI.git"
+    "url": "git+https://github.com/genZrizzCode/curl-ascii.git"
   },
   "keywords": ["curl", "cli", "ascii", "animation", "go", "golang", "curlme", "cli", "genzrizzcode"],
   "bin": {
@@ -18,9 +18,9 @@
   "author": "genZrizzCode",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/genZrizzCode/curl-CLI/issues"
+    "url": "https://github.com/genZrizzCode/curl-ascii/issues"
   },
-  "homepage": "https://github.com/genZrizzCode/curl-CLI#readme",
+  "homepage": "https://github.com/genZrizzCode/curl-ascii#readme",
   "dependencies": {
     "commander": "^14.0.0"
   }
