@@ -1,5 +1,5 @@
 {
-  "name": "curl-er",
+  "name": "curl-ascii",
   "version": "1.0.0",
   "description": "A CLI to make an ASCII animation executable via curl",
   "main": "index.js",
